@@ -1,0 +1,177 @@
+body {
+	background-color: white;
+	font-family: Calibri light;
+}
+
+h1{
+	text-align: center;
+	font-family: Calibri light;
+	font-size: 50px;
+}
+
+h2 {
+	text-align: center;
+	font-family: Calibri light;
+}
+
+h3 {
+	text-align: center;
+	font-family: Calibri light;
+	color: gray;
+	font-size: 20px;
+}
+p {
+	font-family: Calibri light;
+	text-align: justify;
+	margin-left: 500px;
+	margin-right: 500px;
+	font-size: 30px;
+}
+
+#estilo2 {
+	font-family: Calibri;
+	font-size: 40px;
+	background-color: #2CDB92;
+	margin-left: 500px;
+	margin-right: 500px;
+	font-weight: bolder;
+}
+
+#estilo3 {
+	font-family: Calibri;
+	font-size: 40px;
+	background-color: #E05F23;
+	margin-left: 500px;
+	margin-right: 500px;
+	font-weight: bolder;
+}
+
+#estilo4 {
+	font-family: Calibri;
+	font-size: 40px;
+	background-color: #15A3CE;
+	margin-left: 500px;
+	margin-right: 500px;
+	font-weight: bolder;
+}
+
+#estilo5 {
+	font-family: Calibri;
+	font-size: 40px;
+	margin-left: 500px;
+	margin-right: 500px;
+	font-weight: bolder;
+	color:#1885A6;
+}
+
+#conclusiones {
+	font-family: Calibri;
+	font-size: 40px;
+	background-color: #F538A4;
+	margin-left: 550px;
+	margin-right: 500px;
+	font-weight: bolder;
+}
+
+#Bibliografia {
+	font-family: Calibri;
+	font-size: 40px;
+	background-color: #9618BA;
+	margin-left: 550px;
+	margin-right: 500px;
+	font-weight: bolder;
+}
+
+#Gracias {
+	font-family: Calibri;
+	font-size: 40px;
+	background-color: #381DD8;
+	margin-left: 500px;
+	margin-right: 500px;
+	font-weight: bolder;
+	text-align: right;
+}
+
+#numeros, h4 {
+	font-family: Calibri;
+	font-weight: bolder;
+	margin-left: 500px;
+	margin-right: 500px;
+	list-style-type: decimal;
+	font-size: 30px;
+}
+
+#estilo {
+	font-family: Calibri light;
+	list-style-type: decimal;
+	font-size: 30px;
+
+}
+
+#cuadro {
+	font-family: Calibri;
+	margin-left: 500px;
+	margin-right: 510px;
+	font-size: 25px;
+	color: #EE540C;
+	text-align: justify;
+}
+
+#cuadro1 {
+	font-family: Calibri;
+	margin-left: 500px;
+	margin-right: 510px;
+	font-size: 25px;
+	color: #279EC1;
+	text-align: justify;
+}
+
+#cuadro2 {
+	font-family: Calibri;
+	font-size: 25px;
+	color: #279EC1;
+	text-align: justify;
+}
+
+#cuadro3 {
+	font-family: Calibri;
+	font-size: 17px;
+	color: #9618BA;
+	text-align: justify;
+	margin-left: 500px;
+	margin-right: 500px;
+}
+
+
+#texto2 {
+	font-family: Calibri light;
+	text-align: justify;
+	margin-left: 500px;
+}
+
+#Eugenio {
+	font-family: Calibri;
+	font-size: 30px;
+	margin-left: 500px;
+	margin-right: 500px;
+	font-weight: bolder;
+	color:#381DD8;
+}
+
+#Andrea {
+	font-family: Calibri;
+	font-size: 30px;
+	margin-left: 550px;
+	margin-right: 500px;
+	font-weight: bolder;
+	color:#381DD8;
+}
+
+#David {
+	font-family: Calibri;
+	font-size: 30px;
+	margin-left: 600px;
+	margin-right: 500px;
+	font-weight: bolder;
+	color:#381DD8;
+}
