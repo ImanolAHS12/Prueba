@@ -1,0 +1,101 @@
+body{
+    background-color: #ebf0fd;
+}
+section.uno{
+    margin-top: 50px;
+    Background: #5865ee;
+    Width:1000px;
+    Height: 70px;
+    margin-right: 500px;
+    border-radius: 20px;
+    margin-left: 100px;
+}
+
+section.dos{
+   margin-top: 50px;
+    border-radius: 20px;
+    background-color: #5865ee;
+    margin-left: 75px;
+    width: 250px;
+    height: 400px;
+    box-shadow: 0px 14px 41px -20px rgba(0,0,0,1);
+}
+
+section.tres{
+    position: absolute;
+    top: 130px; left: 380px;
+    border-radius: 20px;
+    margin-top: 50px;
+    height: 70px;
+    width: 940px;
+    margin-left: 75;
+    background-color: #ffffff;
+    box-shadow: 0px 14px 41px -20px rgba(0,0,0,.1);
+}
+
+section.cuatro{
+    position: absolute;
+    top: 250px; left: 380px;
+    border-radius: 20px;
+    margin-top: 50px;
+    height: 480px;
+    width: 250px;
+    box-shadow: 0px 14px 41px -20px rgba(0,0,0,1);
+    background-color: #ffffff;
+
+}
+
+section.cinco{
+    position: absolute;
+    top: 280px; left: 700px;
+    border-radius: 20px;
+    margin-top: 50px;
+    height: 300px;
+    width: 280px;
+    box-shadow: 0px 14px 41px -20px rgba(0,0,0,1);
+    background-color: #5865ee;
+}
+
+section.seis{
+    position: absolute;
+    top: 250px; left: 1040px;
+    border-radius: 20px;
+    margin-top: 50px;
+    height: 330px;
+    width: 280px;
+    box-shadow: 0px 14px 41px -20px rgba(0,0,0,1);
+    background-color: #ffffff;
+}
+
+section.siete{
+    margin-top: 100px;
+     border-radius: 7px;
+     background-color: #ffffff;
+     margin-left: 75px;
+     width: 250px;
+     height: 300px;
+     box-shadow: 0px 14px 41px -20px rgba(0,0,0,1);
+ }
+
+ section.ocho{
+    position: absolute;
+    top: 780px; left: 380px;
+    border-radius: 10px;
+    margin-top: 50px;
+    height: 60px;
+    width: 770px;
+    margin-left: 175px;
+    background-color: #5865ee;
+    box-shadow: 0px 14px 41px -20px rgba(0,0,0,.1);
+ }
+ section.nueve{
+    position: absolute;
+    top: 870px; left: 380px;
+    border-radius: 20px;
+    margin-top: 50px;
+    height: 70px;
+    width: 850px;
+    margin-left: 75;
+    background-color: #ffffff;
+    box-shadow: 0px 14px 41px -20px rgba(0,0,0,.1);
+ }
