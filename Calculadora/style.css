@@ -81,6 +81,11 @@ button:hover{
     color: #6DD9D8;
 }
 
+.operacion:hover {
+    background-color: #7CFBF5;
+    color: white;
+}
+
 .resultado {
     background-color: #7CFBF5;
     border-radius: 50px;
