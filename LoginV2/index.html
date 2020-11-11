@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>LoginV2</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body background="Media/Fondo.jpg">
+	<div class="formulario">
+		<div>
+			<h1 class="w3-myfont">Iniciar Sesión</h1>
+		</div>
+		<label>Correo: <input type="email" id="correo" placeholder="ejemplo@ejemplo.com"></label>
+		<label>Contraseña: <input type="password" id="contraseña" placeholder="Contraseña"></label>
+		</br>
+		<button onclick="obtener()">Obtener los Datos</button>
+			<div class="mensaje"></div>
+	</div>
+</body>
+<script type="text/javascript">
+	function obtener(){
+		email = document.querySelector('#correo').value;
+		contraseña = document.querySelector('#contraseña').value;
+
+		 if (email=="imanol@gmail.com" && contraseña=="1234"){
+			alert("Datos Correctos, Bienvenido");
+		}else{
+			alert("Datos Incorrectos, Intente de nuevo");
+		}
+	}
+</script>
+</html>
