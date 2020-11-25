@@ -21,7 +21,7 @@ body, .nav, .menu {
     overflow: hidden;
     box-shadow: 0 8px 15px rgba(0,0,0,.2);
     margin-top: -800px;
-    margin-right: center;
+    
 }
 
 .menu {
@@ -34,7 +34,7 @@ body, .nav, .menu {
 }
 
 .nav input:checked ~ .menu {
-    width: 450px;
+    width: 1000px;
 }
 
 .menu li {
