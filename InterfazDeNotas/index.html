@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Interfaz de Notas</title>
+	<link rel="stylesheet" type="text/css" href="CSS/style.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge" />
+	<meta charset="utf-8">
+</head>
+<body>
+		<!--NAV BAR-->
+		<header>
+			<div class="menu">
+				<h1>NOTAS</h1>
+			</div>
+		</header>
+
+		<!--GENERAR NOTAS-->
+		<div class="general">
+			<div class="lado">
+				<div class="formulario">
+						<input type="text" id="titulo-nota" placeholder="Titulo">
+						<textarea id="texto-nota" cols="40" rows="7" placeholder="Mensaje"></textarea>
+							<div>
+								<select id="tema-nota">
+									<option value="personal">Personal</option>
+									<option value="tecnologia">Tecnología</option>
+									<option value="escolar">Escolar</option>
+									<option value="trabajo">Trabajo</option>
+								</select>
+								<button id="agregar-nota"> Agregar </button>
+							</div>
+				</div>
+			</div>
+			<!--NOTAS-->
+			<div class="publicaciones">
+
+			</div>
+		</div>
+
+</body>
+<script type="text/javascript" src="JS/funciones.js"></script>
+</html>
